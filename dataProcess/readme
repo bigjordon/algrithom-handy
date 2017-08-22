@@ -1,0 +1,4 @@
+dataProcess.exe要和data.txt放在同一路径（文件夹）下。
+data.txt直接从excle中拷贝过来。
+运行dataProcess.exe
+输出数据在out_data.txt和out_text当中。
